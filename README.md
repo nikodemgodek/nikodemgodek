@@ -4,7 +4,7 @@
 ## 🛠️ Skills
 ![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=fff)
 ![React Native](https://img.shields.io/badge/react_native-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
