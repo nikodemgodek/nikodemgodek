@@ -27,3 +27,6 @@
 
 ## Something about me
 I am working as Integration & Verification Test Engineer in Nokia. I studied Computer Science in Business at the Wroclaw University of Economics. In future I would like work as React Native Developer.
+
+## Links
+My email: nikodem.godek@hotmail.com
