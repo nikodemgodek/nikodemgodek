@@ -25,5 +25,5 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## About me
-Currently I am working as Integration & Verification Test Engineer in Nokia. In future I would like work as React Native Developer.
+## Something about me
+I am working as Integration & Verification Test Engineer in Nokia. I studied Computer Science in Business at the Wroclaw University of Economics. In future I would like work as React Native Developer.
